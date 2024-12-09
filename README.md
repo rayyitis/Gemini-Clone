@@ -42,7 +42,7 @@ Assets:
 
 # Future Enhancements:
   -Add backend integration for real-time AI responses.
-  -Implement user authentication.
+  -Implement user authentication. 
   -Store chat history using local storage or a database.
 
 # Contributing:
