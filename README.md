@@ -23,27 +23,14 @@ Backend:
 Assets:
   -Custom icons and assets for a sleek UI.
 
-#Folder Structure
-├── src
-│   ├── assets       # Contains all assets (icons, images)
-│   ├── components   # React components (Main.jsx, Sidebar.jsx)
-│   ├── context      # Context API for managing global states
-│   ├── config       # API configuration file
-│   ├── App.js       # Main application component
-│   ├── index.js     # Entry point
-│   ├── styles       # CSS files
-│   └── ...
-├── public           # Static files (favicon, index.html)
-└── README.md        # Project documentation
-
 #Screenshot:
 ![Screenshot 2024-12-10 005052](https://github.com/user-attachments/assets/974856c8-6417-4034-8a07-f3c32a043708)
 ![Screenshot 2024-12-10 005010](https://github.com/user-attachments/assets/1ea438e2-1532-4674-8205-ae1007b34845)
 
 # Future Enhancements:
-  -Add backend integration for real-time AI responses.
-  -Implement user authentication. 
-  -Store chat history using local storage or a database.
+  1.Add backend integration for real-time AI responses.
+  2.Implement user authentication. 
+  3.Store chat history using local storage or a database.
 
 # Contributing:
 Contributions are welcome! Please follow these steps:
